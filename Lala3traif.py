@@ -2,7 +2,7 @@ import keyboard
 from playsound import playsound
 
 emoji_to_sound = {
-    "💃": "/Users/shqu/Desktop/codes/lala3traif.m4a"
+    "input": "/Users/.....m4a" # change to what should input be, and the path to what should play in return 
 }
 
 def play_sound_for_emoji(emoji):
